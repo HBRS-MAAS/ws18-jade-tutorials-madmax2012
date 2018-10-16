@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/HBRS-MAAS/jade-tutorials.svg?branch=master)](https://travis-ci.org/HBRS-MAAS/jade-tutorials)
+
 # Jade Tutorials
 
 Make sure to keep this README updated, particularly on how to run your project from the **command line**.
